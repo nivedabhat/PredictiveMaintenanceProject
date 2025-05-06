@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore data and model files
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+
+# Ignore logs and outputs
+logs/
+*.log
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore Docker and Kafka volumes
+docker/volumes/
+kafka/volumes/
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment config
+.env

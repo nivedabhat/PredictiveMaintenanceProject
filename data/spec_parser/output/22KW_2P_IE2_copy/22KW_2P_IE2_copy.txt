@@ -1,0 +1,215 @@
+ABB Motors and Technical Data Sheet
+Generators
+Project Location
+Department/Author Customer name Customer ref. Item name
+1.00001
+Our ref. Rev/Changed by Date of issue Saving ident Pages
+A 12/8/2020 untitled.xlsm 1(3)
+No. Definition Data Unit Remarks
+1 Product TEFC, 3-phase, squirrel cage induction motor
+2 Product code 3GBA 181 410-ADCIN Calc. ref. 3GZH021018-1
+3 Type/Frame M2BAX 180MLA 2
+4 Mounting IM1001, B3(foot)
+5 Rated output P N 22 kW
+6 Service factor 1
+7 Type of duty S1 100%
+8 Rated voltage U N 415 VD +10, -10 %
+9 Rated frequency f N 50 Hz +5, -5 %
+10 Rated speed n N 2932 r/min
+11 Rated current I N 38 A
+12
+13 Starting current I s /I N 7
+14 Nominal torque T N 72 Nm
+15 Locked rotor torque T S /T N 2.6
+16 Maximum torque T max /T N 3.2
+17
+18
+Load characteristics Load % Current A Efficiency % Power factor
+19 PLL determined from residual loss 100 38 91.3 / IE2 0.88
+20 75 29.5 91.7 0.85
+21 50 21 91 0.8
+22
+23 Thermal withstand time hot 20 s
+24 Thermal withstand time cold 32 s
+25 Insulation class / Temperature class F / B
+26 Ambient temperature 50 °C
+27 Altitude 1000 m.a.s.l.
+28 Degree of protection IP55
+29 Cooling system IC411
+30 Bearing DE/NDE 6310-2Z/C3 - 6209-2Z/C3
+31 Sound pressure level (LP dB(A) 1m) 85 dB(A) at no-load
+32 Moment of inertia J = ¼ GD2 0.0679 kg-m2
+33 Position of terminal box Top
+34 Direction of rotation Bi-directional
+35 Weight of rotor 36 kg
+36 Total weight of motor 152 kg
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Ex-motors
+46
+47
+48
+Option Variant Codes / Definition
+49
+50
+51
+52
+Remarks:
+Applicable standards: IS 12615:2018, IEC 60034-30-1:2014
+All performance values are subject to IS/IEC tolerances
+ABB Motors and Load Curves
+Generators
+Project Location
+Department/Author Customer name Customer ref. Item name
+1.00001
+Our ref. Rev/Changed byDate of issue Saving ident Pages
+A 12/8/2020 untitled.xlsm 2(3)
+Product TEFC, 3-phase, squirrel cage induction motor
+Type/Frame M2BAX 180MLA 2 Calc. ref. 3GZH021018-1
+Product code 3GBA 181 410-ADCIN
+Rated output P N 22 kW
+Type of duty S1 100%
+Voltage (V) 415 Current I N (A) 38 Power factor at P N 0.88
+Frequency (Hz) 50 Speed (r/min) 2932 Efficiency (%) at P N 91.3
+1.4
+1.3
+1.2
+1.1
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 1.1 1.2 1.3 1.4
+Applicable standards: IS 12615:2018, IEC 60034-30-1:2014
+)001*(%tnerruC,ycneiciffE
+/
+FP
+P2/Pn
+Current Efficiency Cosinus
+ABB Motors and Starting Curves
+Generators
+Project Location
+Department/Author Customer name Customer ref. Item name
+1.00001
+Our ref. Rev/Changed byDate of issue Saving ident Pages
+A 12/8/2020 untitled.xlsm 3(3)
+Type of product TEFC, 3-phase, squirrel cage induction motor
+Type/Frame M2BAX 180MLA 2 Calc. ref. 3GZH021018-1
+Product code 3GBA 181 410-ADCIN Frequency (Hz) 50
+Rated output P N 22 kW Rated current I N 38 A
+Type of duty S1 100%
+J motor (kgm2) 0.068 Voltage (V) 100% 415 Voltage (V) 415V(100%)
+J (kgm2) T /T 2.6 T /T 2.6
+load start N start N
+Speed (r/min) 2932 Starting time (s) 0.1 Starting time (s) 0.1
+T N (Nm) 72 Speed (r/min) 2932 Speed (r/min) 2932
+T (Nm) I/I 7 I/I 7
+load s n s n
+T /T 3.2 T /T 3.2
+max n max n
+4.5 9
+4 8
+3.5 7
+3 6
+2.5 5
+2 4
+1.5 3
+1 2
+0.5 1
+0 0
+0 250 500 750 1000 1250 1500 1750 2000 2250 2500 2750 3000 3250
+Applicable standards: IS 12615:2018, IEC 60034-30-1:2014
+nT/sT nI/sI
+Speed (r/min)
+TMotorUn 415V TMotorU2 415V(100%)
+IMotorUn 415V IMotorU2 415V(100%)
+ABB Motors and Current & Speed Vs Time
+Generators
+Project Location
+Department/Author Customer name Customer ref. Item name
+1.00001
+Our ref. Rev/Changed byDate of issue Saving ident Pages
+A 12/8/2020 untitled.xlsm 4(3)
+Type of product TEFC, 3-phase, squirrel cage induction motor
+Type/Frame M2BAX 180MLA 2 Calc. ref. 3GZH021018-1
+Product code 3GBA 181 410-ADCIN Frequency (Hz) 50
+Rated output P N 22 kW Rated current I N 38 A
+Type of duty S1 100%
+J motor (kgm2) 0.068 Voltage (V) 100% 415 Voltage (V) 415V(100%)
+J (kgm2) T /T 2.6 T /T 2.6
+load start N start N
+Speed (r/min) 2932 Starting time (s) 0.1 Starting time (s) 0.1
+T N (Nm) 72 Speed (r/min) 2932 Speed (r/min) 2932
+T (Nm) I/I 7 I/I 7
+load s n s n
+T /T 3.2 T /T 3.2
+max n max n
+3500 300
+3000
+250
+2500
+200
+2000
+150
+1500
+100
+1000
+50
+500
+0 0
+0 0.02 0.04 0.06 0.08 0.1 0.12 0.14 0.16
+Applicable standards: IS 12615:2018, IEC 60034-30-1:2014
+]mpr[
+deepS
+]A[
+tnerruC
+Starting Time [s]
+Speed [rpm] Current [A]
+ABB Motors and Thermal Withstand Curve
+Generators
+Project Location
+Department/Author Customer name Customer ref. Item name
+1.00001
+Our ref. Rev/Changed byDate of issue Saving ident Pages
+A 12/8/2020 untitled.xlsm 5(3)
+Type of product TEFC, 3-phase, squirrel cage induction motor
+Type/Frame M2BAX 180MLA 2 Calc. ref. 3GZH021018-1
+Product code 3GBA 181 410-ADCIN Frequency (Hz) 50
+Rated output P N 22 kW Rated current I N 38 A
+Type of duty S1 100%
+J motor (kgm2) 0.068 Voltage (V) 100% 415 Voltage (V) 415V(100%)
+J (kgm2) T /T 2.6 T /T 2.6
+load start N start N
+Speed (r/min) 2932 Starting time (s) 0.1 Starting time (s) 0.1
+T N (Nm) 72 Speed (r/min) 2932 Speed (r/min) 2932
+T (Nm) I/I 7 I/I 7
+load s n s n
+T /T 3.2 T /T 3.2
+max n max n
+10000
+1000
+100
+10
+1
+0.1
+0 100 200 300 400 500 600 700 800 900 1000
+Applicable standards: IS 12615:2018, IEC 60034-30-1:2014
+]s[
+emiT
+llatS
+Current [%]
+Running Hot Running Cold
