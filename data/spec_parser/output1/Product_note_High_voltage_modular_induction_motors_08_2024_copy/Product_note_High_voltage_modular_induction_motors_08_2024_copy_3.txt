@@ -1,0 +1,108 @@
+—
+PRODUCT NOTE
+High voltage modular induction motors
+High efficiency, reliability and availability
+ABB high voltage modular
+induction motors are tailored for an
+exact match with their application.
+They boost reliability, productivity
+and energy efficiency across a wide
+range of industries.
+—
+01
+— ABB high voltage modular induction motors are High efficiency saves energy and cuts costs
+01 ABB’s high voltage
+fine-tuned to the customer’s precise needs and As the world seeks ways to achieve its net zero
+modular induction
+motor, type AMI offer a high degree of flexibility. ambitions, energy efficiency and circularity have
+critical roles to play.
+They are engineered to provide reliability and
+availability in the toughest and most demanding High efficiency modular induction motors enable
+conditions, and they can be used in all industry industries to lower their environmental impact and
+segments and applications. reduce the total cost of ownership. They can provide
+energy savings totaling up to 1.1 GWh over a 20-year
+Key benefits lifetime.
+High efficiency
+Using less energy to produce the same output
+• High efficiency motors help save
+means lower CO2 emissions and shorter payback
+energy and cut costs
+times. The payback time can be as low as six months
+(based on an energy price of EUR 0.40/kWh).
+Designed for most demanding
+applications
+At ABB we take our responsibilities seriously, with a
+• Meets demanding application needs
+strong focus on sustainability. Carbon neutrality is
+prioritized in our manufacturing operations.
+Efficient cooling
+• Modular cooling options to meet all
+customer requirements
+High productivity
+• Reliable proven design and
+productivity from countless
+installations
+— —
+For more information please visit: We reserve the right to make technical changes or We reserve all rights in this document and in the
+abb.com/motors&generators modify the contents of this document without prior subject matter and illustrations contained therein.
+notice. With regard to purchase orders, the agreed Any reproduction, disclosure to third parties or utilization
+particulars shall prevail. ABB AG does not accept any of its contents – in whole or in parts – is forbidden
+responsibility whatsoever for potential errors or without prior written consent of ABB AG.
+possible lack of information in this document. Copyright© 2024 ABB. All rights reserved.
+4202-80
+C
+.VER
+NE
+315501KKA9
+—
+02 High voltage modular Technical specifications
+induction motors are Output power: Up to 23 MW
+tailor-made to meet the
+needs of each customer Frame sizes: 400 to 1000
+and each application. Number of poles: 2 to 24
+Voltages: Up to 13.8 kV
+Frequency: 50 or 60 Hz, or VSD
+Ambient: -50 °C to +60 °C
+Cooling: Air-to-air, air-to-water, weather-
+protected open ventilated system
+Protection: IP23, IPW24, IP55, IP56
+Enclosure material: Welded steel
+Bearings: Antifriction or sleeve
+Mounting: Horizontal or vertical
+Standards: IEC, NEMA
+Supply: Variable speed drive (VSD),
+— direct-on-line (DOL)
+02
+Designed for most demanding applications High productivity
+ABB modular induction motors are tailor-made for ABB motors are based on reliable designs, proven in
+their specific application. They are built on the most thousands of installations, and provide high
+successful modular platform for electric motors. productivity in demanding conditions. We use our
+They not only meet demanding application extensive experience and segment knowledge to
+requirements but also have the flexibility to allow determine what type of motor will perform best in
+adaptation for highly specialized configurations. each application.
+The motors are typically used to drive blowers, fans, The modular induction motors’ proven core
+compressors, pumps, conveyors, hoists, mixers and technology, materials, manufacturing methods and
+thrusters. They are found in industries like power low vibration ensure great reliability. Each motor is
+generation, air separation, oil and gas, chemicals, thoroughly tested before it leaves the factory.
+metals, marine, mining, and pulp and paper.
+Your reliable partner
+ABB modular induction motors comply with all With ABB you always have a partner to discuss
+relevant international standards. Versions are different motor solutions to optimize your process.
+available for both direct-on-line (DOL) and variable Our services do not stop at sales. We make it easy
+speed drive (VSD) operation. for you to reach us at every stage of your motor’s life
+cycle.
+Efficient cooling for peak performance
+Efficient cooling is vital for peak motor performance The extensive ABB global network ensures local
+in all ambient operating conditions. The optimal service delivery whenever and wherever you need it.
+cooling option is chosen from three basic modules: Our worldwide network includes over 60 service
+• air-to-air heat exchanger centers and more than 150 authorized service
+• air-to-water heat exchanger providers.
+• weather-protected open ventilated system
+We offer predefined maintenance programs for all
+The selected cooling module is mounted on top of lifetime phases of all ABB motors, and preventive
+the frame, ensuring that customer requirements diagnosis and updates can help further boost your
+regarding the cooling method and environmental competitiveness when needed.
+protection can be met in every case.
+—
+Learn more from the
+ABB High voltage modular induction motors page.

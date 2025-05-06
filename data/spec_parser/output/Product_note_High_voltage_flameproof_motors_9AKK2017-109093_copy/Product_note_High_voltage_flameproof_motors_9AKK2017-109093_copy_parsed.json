@@ -1,0 +1,191 @@
+[
+    {
+        "model_id": "AMD R",
+        "parameter": "Safe Choice Abb Rib Cooled Flameproof Motors Offer The Benefits",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Manufacturer \u2013 Which Spans More Than 140 Years",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 1
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Two Versions Rib Cooled Motors Up To Frame Size",
+        "raw_value": "500,",
+        "unit": null,
+        "source_page": 1,
+        "value": "500,"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ne",
+        "raw_value": "390901-7102",
+        "unit": "KKA",
+        "source_page": 2,
+        "min": 390901.0,
+        "max": 7102.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Output Power 100 To",
+        "raw_value": "1,600",
+        "unit": null,
+        "source_page": 2,
+        "value": "1,600"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frame Size 355 To",
+        "raw_value": "500",
+        "unit": null,
+        "source_page": 2,
+        "value": 500.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Number Of Poles 2 To",
+        "raw_value": "18",
+        "unit": null,
+        "source_page": 2,
+        "value": 18.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Voltages Up To",
+        "raw_value": "11",
+        "unit": null,
+        "source_page": 2,
+        "value": 11.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ic416",
+        "raw_value": "-20",
+        "unit": "\u00b0",
+        "source_page": 2
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "To",
+        "raw_value": "40",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 40.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ambient Temperature To -55\u00b0C And Up To",
+        "raw_value": "60",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Gas/Dust Group I",
+        "raw_value": ",",
+        "unit": null,
+        "source_page": 2,
+        "value": ","
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Output Power 700 To",
+        "raw_value": "7,500",
+        "unit": null,
+        "source_page": 2,
+        "value": "7,500"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frame Size 500 To",
+        "raw_value": "900",
+        "unit": null,
+        "source_page": 2,
+        "value": 900.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Number Of Poles 2 To",
+        "raw_value": "12",
+        "unit": null,
+        "source_page": 2,
+        "value": 12.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Voltages Up To",
+        "raw_value": "11",
+        "unit": null,
+        "source_page": 2,
+        "value": 11.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "S Extensive Global Network Ensures Local Service",
+        "raw_value": "-20",
+        "unit": "\u00b0",
+        "source_page": 2
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "To",
+        "raw_value": "40",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 40.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ambient Temperature To -50\u00b0C And Up To",
+        "raw_value": "60",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Iic Frame Available For Amd T",
+        "raw_value": "500",
+        "unit": null,
+        "source_page": 2,
+        "value": 500.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "H2 Available For Amd T",
+        "raw_value": "710",
+        "unit": null,
+        "source_page": 2,
+        "value": 710.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    }
+]

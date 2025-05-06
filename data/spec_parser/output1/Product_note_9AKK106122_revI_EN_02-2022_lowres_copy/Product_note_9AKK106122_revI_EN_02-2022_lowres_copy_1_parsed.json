@@ -1,0 +1,151 @@
+[
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr Series",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 1
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "01",
+        "raw_value": "02",
+        "unit": null,
+        "source_page": 1,
+        "value": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr Is Designed For Both Direct-Online  And Easy To Buy",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Abb Has Gained Over More Than",
+        "raw_value": "130",
+        "unit": null,
+        "source_page": 1,
+        "value": 130.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Ver",
+        "raw_value": "221601",
+        "unit": "KKA",
+        "source_page": 2,
+        "value": 221601.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "True Nema Mounting In 5000 And",
+        "raw_value": "5800",
+        "unit": null,
+        "source_page": 2,
+        "value": 5800.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Which Keeps The Airflow Free And Ribs Easy To Clean Division",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Thanks To The Long Experience Of Over",
+        "raw_value": "130",
+        "unit": null,
+        "source_page": 2,
+        "value": 130.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr En \u2013 Main Specifications Nxr Us",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Output Power 100 To 1800 Kw Output Power 250 Hp -",
+        "raw_value": "1000",
+        "unit": null,
+        "source_page": 2,
+        "value": 1000.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Frame Size 315 To 500 Frame Size",
+        "raw_value": "5000,",
+        "unit": null,
+        "source_page": 2,
+        "value": "5000,"
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Number Of Poles 2 To 12 Number Of Poles 2 To",
+        "raw_value": "6",
+        "unit": null,
+        "source_page": 2,
+        "value": 6.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Voltages Up To 11.5 Kv Voltages",
+        "raw_value": "460,",
+        "unit": null,
+        "source_page": 2,
+        "value": "460,"
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Vsd Frequency",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Standard Duty S1 Standard Duty Dol - 1.15 Vfd -",
+        "raw_value": "1.00",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Bearings Antifriction/Sleeve (Nxr 500",
+        "raw_value": "2-",
+        "unit": "pole",
+        "source_page": 2,
+        "min": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Standards Iec  Standards Nema Mg-1 Part 20 And Ieee",
+        "raw_value": "112",
+        "unit": null,
+        "source_page": 2,
+        "value": 112.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    }
+]

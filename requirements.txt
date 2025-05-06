@@ -9,3 +9,8 @@ joblib
 kafka-python
 pyyaml
 pdfminer.six>=20201018
+pdfminer.six
+camelot-py[cv]
+pandas
+openpyxl
+pip install -r requirements.txt

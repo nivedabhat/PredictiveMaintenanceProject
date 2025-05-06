@@ -1,0 +1,127 @@
+—
+PRODUCT NOTE
+High voltage flameproof motors
+Performance, reliability and safety
+ABB’s high voltage flameproof
+motors are designed for reliable
+operation in the toughest
+conditions. They provide
+compliance with international
+standards and oil & gas industry
+requirements, and deliver great
+performance, reliability and safety
+for applications in hazardous areas.
+—
+01
+— Safe choice ABB rib cooled flameproof motors offer the benefits
+01 Rib cooled flameproof
+ABB high voltage flameproof motors are designed of very high power density and efficiency, increased
+motor, type AMD R
+to withstand the pressure caused by an internal reliability and easier maintenance. These
+explosion without incurring any damage. They advantages ensure a lower cost of ownership. In
+prevent the propagation of flames outside of the fact, the motors have set a new benchmark, offering
+enclosure, and they are certified for gas groups IIB more watts per kilogram than has ever been
+and IIC. achieved before with rib cooled motors.
+ABB flameproof motors are a safe choice for High power density means that for a given output
+applications in potentially explosive atmospheres. you can often use a motor one frame size smaller
+They meet all relevant international standards, such than with similar products. This helps to save space
+as EN and ATEX Directive, as well as the most and enables more compact installations.
+important specification requirements for the oil and
+gas industry. ABB’s extensive experience as a motor The tube cooled motors are cooled using cooling
+manufacturer – which spans more than 140 years – tubes, which allows for a compact size while
+ensures the motors will operate reliably in harsh optimizing motor performance. They offer the
+environments with hazards like extreme benefits of high reliability, easy maintenance and
+temperatures, corrosive dust and humidity. lower operational costs while maximizing
+application productivity and efficiency.
+High productivity and reliability
+The high voltage flameproof motors are available in Versions are available for both direct-on-line (DOL)
+two versions rib cooled motors up to frame size 500, and variable speed drive (VSD) operation. Certified
+and tube cooled motors for higher power ratings. ABB motor-drive packages, with optimized thermal
+behavior, reliability, efficiency and power range,
+offer even higher productivity and energy efficiency.
+4202-01
+C
+VER
+NE
+390901-7102KKA9
+—
+02 Tube cooled
+flameproof motor,
+type AMD T
+—
+02
+Key benefits
+—
+Main specifications Safe choice
+• Design meets all relevant standards
+Rib cooled motors, type AMD R
+and specification requirements in
+Output power 100 to 1,600 kW
+hazardous environments
+Frame size 355 to 500
+Number of poles 2 to 18
+High power density
+Voltages Up to 11 kV
+• Compact size with more watts per
+Frequency 50/60 Hz, VSD
+kilogram
+Cooling IC411, IC416
+-20° to 40°C (as option down
+High reliability
+Ambient temperature to -55°C and up to 60°C)
+• Increased uptime and productivity
+Protection IP55 (as option up to IP66)
+Enclosure material Cast iron
+Easy to maintain
+Bearings Antifriction or sleeve
+• ABB’s predefined maintenance
+Mounting Horizontal or vertical
+programs ensure operational safety
+Ex protection types: Ex db, Ex db eb, Ex tb, Ex db I Mb
+and reliability
+Gas/Dust group I , IIB, IIC
+Temperature class T3, T4, T5 Your reliable partner
+Standards IEC, EN, NEMA electical ABB motors are based on reliable designs, proven in
+thousands of installations, and provide high produc-
+Tube cooled motors, type AMD T
+tivity in demanding conditions. With ABB you always
+Output power 700 to 7,500 kW
+have a partner to discuss different motor solutions
+Frame size 500 to 900
+to optimize your process. Our services do not stop
+Number of poles 2 to 12
+at sales. We make it easy for you to reach us at every
+Voltages Up to 11 kV
+stage of your motor’s life cycle.
+Frequency 50/60 Hz, VSD
+Cooling IC511, IC516
+ABB’s extensive global network ensures local service
+-20° to 40°C (as option down
+delivery whenever and wherever you need it. We of-
+Ambient temperature to -50°C and up to 60°C)
+fer predefined maintenance programs for all life-
+Protection IP55
+time phases of all ABB motors, and preventive diag-
+Enclosure material Welded steel
+nosis and updates can help to further boost your
+Bearings Antifriction or sleeve
+competitiveness when needed.
+Mounting Horizontal or vertical
+Gas/Dust group IIB, IIC*, IIB+H2**
+Preventive maintenance helps keep production run-
+Temperature Class T3, T4
+ning and optimize costs. ABB’s certified engineers
+Ex protection types Ex db, Ex db eb
+for hazardous area motors ensure that all the rele-
+Standards IEC, EN, NEMA electrical
+vant international regulations and requirements for
+* IIC frame available for AMD T 500 only
+relevant standards are met.
+** IIB + H2 available for AMD T 710 only
+— —
+For more information please visit: We reserve the right to make technical changes or We reserve all rights in this document and in the
+abb.com/motors&generators modify the contents of this document without prior subject matter and illustrations contained therein.
+notice. With regard to purchase orders, the agreed Any reproduction, disclosure to third parties or utilization
+particulars shall prevail. ABB AG does not accept any of its contents – in whole or in parts – is forbidden
+responsibility whatsoever for potential errors or without prior written consent of ABB AG.
+possible lack of information in this document. Copyright© 2024 ABB. All rights reserved.

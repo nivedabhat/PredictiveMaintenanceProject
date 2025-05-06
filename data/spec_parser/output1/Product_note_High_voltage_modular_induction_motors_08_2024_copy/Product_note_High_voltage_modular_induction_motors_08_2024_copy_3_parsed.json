@@ -1,0 +1,153 @@
+[
+    {
+        "model_id": "AMI",
+        "parameter": "Abb High Voltage Modular Induction Motors Are High Efficiency Saves Energy And Cuts Costs",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Energy Savings Totaling Up To 1.1 Gwh Over A",
+        "raw_value": "20-",
+        "unit": "year",
+        "source_page": 1,
+        "min": 20.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "(Based On An Energy Price Of Eur",
+        "raw_value": "0.40",
+        "unit": "/kWh",
+        "source_page": 1,
+        "value": 0.4
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "2024 Abb. All Rights Reserved.",
+        "raw_value": "4202-80",
+        "unit": null,
+        "source_page": 2,
+        "min": 4202.0,
+        "max": 80.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "C",
+        "raw_value": ".",
+        "unit": "VER",
+        "source_page": 2,
+        "value": "."
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Ne",
+        "raw_value": "315501",
+        "unit": "KKA",
+        "source_page": 2,
+        "value": 315501.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Up To",
+        "raw_value": "23",
+        "unit": null,
+        "source_page": 2,
+        "value": 23.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Needs Of Each Customer Frame Sizes",
+        "raw_value": "400",
+        "unit": null,
+        "source_page": 2,
+        "value": 400.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "To",
+        "raw_value": "1000",
+        "unit": null,
+        "source_page": 2,
+        "value": 1000.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "And Each Application. Number Of Poles",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "To",
+        "raw_value": "24",
+        "unit": null,
+        "source_page": 2,
+        "value": 24.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Up To",
+        "raw_value": "13.8",
+        "unit": null,
+        "source_page": 2,
+        "value": 13.8
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Or",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Ambient",
+        "raw_value": "-50",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Direct-On-Line",
+        "raw_value": "02",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Our Worldwide Network Includes Over",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Air-To-Air Heat Exchanger Centers And More Than",
+        "raw_value": "150",
+        "unit": null,
+        "source_page": 2,
+        "value": 150.0
+    }
+]

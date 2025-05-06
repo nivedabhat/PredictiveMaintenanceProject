@@ -1,0 +1,95 @@
+—
+PRODUCT NOTE
+NXR series – Rib cooled induction motors
+Configured to order motors for different applications
+ABB’s latest generation of rib
+cooled motors, type NXR, offer high
+power density, easy configurability
+and built-in serviceability. It is the
+best solution to meet different
+applications for power, water and
+other industries. IEC and NEMA
+standards are met with dedicated
+— —
+01 02 product lines.
+— NXR is designed for both direct-online (DOL) and Easy to buy
+01 NXR EN (IEC) motor
+variable speed drive (VSD) operation. The entire order-to-delivery process has been
+—
+02 NXR US (NEMA) motor streamlined by providing easy-to-use online tools:
+The latest generation of multipurpose rib cooled MachSize and DocStage.
+motors offers high power density, easy configurability
+and built-in serviceability. They incorporate experience Using the MachSize tool, qualified customers and
+ABB has gained over more than 130 years of partners can select a number of pre-engineered
+manufacturing electric motors. option packages that have been developed around
+the needs of specific industries. If you want to
+Configured to order (CTO) motors try it, please contact ABB.
+NXR EN (IEC) motors are targeted at applications
+where a highly customized motor is not needed in DocStage is a web-based system for sharing
+global. With their standardized designs and short and managing documentation, which gives
+lead times, the NXR IEC standard pre-engineered customers direct access to documentation for
+motors meet most common needs across a wide their motors.
+range of industries.
+Modified to order (MTO) motors Common key features and benefits
+NXR US (NEMA) motors for the North America • Rigid, weight-optimized frame is engineered
+market are available from a North America stocking to minimize vibration
+location with standard features to allow for • Fixing points make accessory fitting
+modified-to-order capability at competitive lead straightforward
+times. ABB’s modified-to-order capability enables • Flexible repositioning of main terminal box
+you to add the modifications to meet your on site by ABB service personnel
+application needs. • Built-in serviceability features reduce downtime
+and cost of not running
+High power density for compact installations • Optimized ABB motor and VSD packages are
+The new motors set a benchmark for the industry, easy to install and operate
+offering more watts per kilogram than has ever • 3D models available on request
+been achieved before with rib cooled motors. • ABB Ability™ Smart Sensor is available
+High power density means that for a given output as an option
+you can often use a motor one frame size smaller • Performance data, drawings and other
+than with conventional products. This helps to save information is readily available
+space and enables more compact installations.
+2202-20
+NE
+I
+VER
+221601KKA9
+Easy to purchase Reliability Fast and Economical
+• Fast quotation with MachSize • Based on ABB and Baldor-Reliance • Short lead time
+online configurator long experience • Cost effective
+• Fit for purpose • ABB Ability™ Smart Sensor equipped solution
+• Extensive global service network
+High efficiency Easy to install
+• It ensures reduced cost of running, • Smaller frame size and less weight
+less energy consumption • Designed to enable great flexibility
+NXR EN (IEC) key features and benefits NXR US (NEMA) key features and benefits
+• Versions with VSD operation which optimizes the motor’s • True NEMA mounting in 5000 and 5800 frames for
+performance, minimizes energy consumption and drop in replacement
+control your process more accurately • One motor type with many possibilities. Product is available
+• Interchangeable terminal boxes reduce need for for DOL, or VFD, so no need to change between product lines,
+spare motors you can utilize the same product, we design it for you.
+• Cable tray for auxiliary wiring ensures clear cable routing, • NXR is the general-purpose version for Class I and II
+which keeps the airflow free and ribs easy to clean Division 2 T-code area
+• Optional ingress protection level available up to IP66 • Thanks to the long experience of over 130 years
+manufacturing and applying motors, we provide our
+customers with safe, reliable and efficient solutions to
+many key applications in industries.
+NXR EN – Main specifications NXR US – Main specifications
+Output power 100 to 1800 kW Output power 250 Hp - 1000 Hp
+Frame size 315 to 500 Frame size 5000, 5800
+Number of poles 2 to 12 Number of poles 2 to 6
+Voltages Up to 11.5 kV Voltages 460, 2300/4000, 4160
+Frequency 50/60 Hz, VSD Frequency 60 Hz (50 Hz re-ratable)
+Standard duty S1 Standard duty DOL - 1.15 VFD - 1.00
+Insulation class F Insulation class F
+Cooling IC411, IC416 Cooling TEFC (IC411), TEBC (IC416)
+Protection IP55 (optionally IP56, IP65 and IP66) Protection IP54 (option IP55)
+Enclosure material Cast iron Enclosure material Cast iron
+Bearings Antifriction/Sleeve (NXR 500 2-pole) Bearings Ball and roller (convertible)
+Mounting Horizontal or Vertical Mounting Horizontal or wall-mount
+Standards IEC (electrically NEMA feature available) Standards NEMA MG-1 part 20 and IEEE 112
+— —
+For more information please visit: We reserve the right to make technical changes or We reserve all rights in this document and in the
+new.abb.com/motors-generators modify the contents of this document without prior subject matter and illustrations contained therein.
+notice. With regard to purchase orders, the agreed Any reproduction, disclosure to third parties or utilization
+particulars shall prevail. ABB AG does not accept any of its contents – in whole or in parts – is forbidden
+responsibility whatsoever for potential errors or without prior written consent of ABB AG.
+possible lack of information in this document. Copyright© 2021 ABB. All rights reserved.

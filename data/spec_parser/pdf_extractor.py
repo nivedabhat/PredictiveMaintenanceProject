@@ -1,20 +1,41 @@
 import os
-import logging
-import json
 import re
-import camelot
+import json
+import logging
 import pdfplumber
+import camelot
+import pandas as pd
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 
-# Define the input and output folders
+# Configurable folders (update paths as needed)
 PDF_FOLDER = "/Users/niveda/Desktop/PredictiveMaintenanceProject/data/spec_parser/sample_pdfs"
 OUTPUT_FOLDER = "/Users/niveda/Desktop/PredictiveMaintenanceProject/data/spec_parser/output"
 
-# Extract text from PDF using pdfplumber
+# Normalize known units
+UNIT_NORMALIZATION = {
+    "KW": "kW", "kw": "kW", "K.W.": "kW", "kVA": "kVA",
+    "RPM": "rpm", "r/min": "rpm", "Hz": "Hz",
+    "V": "V", "kV": "kV", "A": "A",
+    "°C": "degC", "C": "degC",
+    "IP55": "IP", "IP56": "IP", "IP66": "IP"
+}
+
+def normalize_unit(unit):
+    if not unit:
+        return None
+    return UNIT_NORMALIZATION.get(unit.strip(), unit.strip())
+
+def clean_parameter_name(param):
+    param = re.sub(r"\(.*?\)", "", param)
+    return param.strip().title()
+
+def extract_model_id_from_text(text):
+    match = re.search(r"(NXR\s+(EN|US)|AMD\s+[RT]|AMI)", text)
+    return match.group(0) if match else "UnknownModel"
+
 def extract_text(pdf_path):
-    """Extracts text from the PDF file using pdfplumber for better formatting."""
     try:
         text = ""
         with pdfplumber.open(pdf_path) as pdf:
@@ -24,104 +45,116 @@ def extract_text(pdf_path):
                     text += page_text + "\n"
         return text
     except Exception as e:
-        logging.error(f"Error extracting text from {pdf_path} using pdfplumber: {e}")
+        logging.error(f"Error extracting text from {pdf_path}: {e}")
         return ""
 
-# Improved regex pattern to extract structured sections
-def extract_sections_from_text(text):
-    """Extracts structured sections from the text using regex."""
-    section_pattern = r"([A-Za-z \(\)/\d\-\–\[\]]+:\s*[\d\w °±µ%/.×+\-–~><=]+)"
-    sections = re.findall(section_pattern, text)
-    return sections
+def extract_sections_from_text(text, page_number, model_id):
+    pattern = r"([A-Za-z0-9 \(\)/\-\–%\u00b0µ±\.><=]+)[\s:]{1,3}([\d.,\-\–±><=]+(?:\s*[\u00b1\-\–]?\s*\d+)?(?:[a-zA-Z/%\u00b0]+)?)"
+    matches = re.findall(pattern, text)
 
-# Parse extracted sections into key-value pairs
-def parse_sections(sections):
-    """Parses section strings into a dictionary."""
-    parsed = {}
-    for section in sections:
-        if ":" in section:
-            key, value = section.split(":", 1)
-            parsed[key.strip()] = value.strip()
-    return parsed
-
-# Extract tables using both lattice and stream, and choose the better one
-def extract_tables_from_pdf(pdf_path):
-    """Extracts tables using both stream and lattice to maximize coverage."""
-    try:
-        tables_lattice = camelot.read_pdf(pdf_path, pages='1-end', flavor='lattice')
-        tables_stream = camelot.read_pdf(pdf_path, pages='1-end', flavor='stream')
-
-        if len(tables_lattice) >= len(tables_stream):
-            logging.info(f"Using lattice flavor: {len(tables_lattice)} tables extracted.")
-            return tables_lattice
+    results = []
+    for param, value_unit in matches:
+        value_unit = value_unit.strip()
+        embedded = re.match(r"([\d.,\-\–±><=]+)([a-zA-Z/%\u00b0]+)?", value_unit)
+        if embedded:
+            value = embedded.group(1)
+            unit = embedded.group(2) if embedded.group(2) else ""
         else:
-            logging.info(f"Using stream flavor: {len(tables_stream)} tables extracted.")
-            return tables_stream
-    except Exception as e:
-        logging.error(f"Error extracting tables from {pdf_path}: {e}")
+            value, unit = value_unit, None
+
+        entry = {
+            "model_id": model_id,
+            "parameter": clean_parameter_name(param),
+            "raw_value": value.strip(),
+            "unit": normalize_unit(unit),
+            "source_page": page_number + 1
+        }
+
+        if "±" in value:
+            parts = value.split("±")
+            try:
+                entry["value"] = float(parts[0].strip())
+                entry["tolerance"] = float(parts[1].strip())
+            except:
+                pass
+        elif "–" in value or "-" in value:
+            parts = re.split(r"[–\-]", value)
+            if len(parts) == 2:
+                try:
+                    entry["min"] = float(parts[0].strip())
+                    entry["max"] = float(parts[1].strip())
+                except:
+                    pass
+        elif any(op in value for op in [">=", "<=", ">", "<"]):
+            entry["comparison"] = value.strip()
+        else:
+            try:
+                entry["value"] = float(value.strip())
+            except:
+                entry["value"] = value.strip()
+
+        results.append(entry)
+    return results
+
+def extract_tables_from_pdf(pdf_path):
+    try:
+        tables = camelot.read_pdf(pdf_path, pages='all', flavor='lattice')
+        return tables
+    except:
         return []
 
-# Save text, parsed sections, and tables
-def save_data(text, sections, tables, output_path, base_name):
-    """Saves the extracted text, structured sections, and tables to files."""
-    try:
-        os.makedirs(output_path, exist_ok=True)
+def save_data(text, parsed_sections, tables, output_path, base_name):
+    os.makedirs(output_path, exist_ok=True)
 
-        # Save raw text
-        text_file = os.path.join(output_path, f"{base_name}.txt")
-        with open(text_file, 'w', encoding='utf-8') as f:
-            f.write(text)
-        logging.info(f"Saved text to: {text_file}")
+    with open(os.path.join(output_path, f"{base_name}.txt"), 'w', encoding='utf-8') as f:
+        f.write(text)
 
-        # Save parsed sections to JSON
-        parsed_sections = parse_sections(sections)
-        json_file = os.path.join(output_path, f"{base_name}_sections.json")
-        with open(json_file, 'w', encoding='utf-8') as f:
-            json.dump(parsed_sections, f, indent=4)
-        logging.info(f"Saved sections to: {json_file}")
+    with open(os.path.join(output_path, f"{base_name}_parsed.json"), 'w', encoding='utf-8') as f:
+        json.dump(parsed_sections, f, indent=4)
 
-        # Save each table as CSV
-        for i, table in enumerate(tables, start=1):
-            table_file = os.path.join(output_path, f"{base_name}_table_{i}.csv")
-            table.to_csv(table_file)
-            logging.info(f"Saved table {i} to: {table_file}")
-    except Exception as e:
-        logging.error(f"Error saving data to {output_path}: {e}")
+    for i, table in enumerate(tables, start=1):
+        table_file = os.path.join(output_path, f"{base_name}_table_{i}.csv")
+        table.to_csv(table_file)
 
-# Extract text and tables from the PDF
-def extract_text_and_tables_from_pdf(pdf_path, output_folder):
-    """Extracts text and tables from a PDF and saves them."""
-    logging.info(f"Extracting text and tables from {pdf_path}")
-    
-    # Extract text
-    text = extract_text(pdf_path)
-    if not text:
-        logging.warning(f"No text found in {pdf_path}")
-        return
+    logging.info(f"✅ Saved all outputs for {base_name}")
 
-    # Extract sections from the text
-    sections = extract_sections_from_text(text)
-    
-    # Extract tables from the PDF
-    tables = extract_tables_from_pdf(pdf_path)
-    
-    # Get the base name of the PDF (without extension) for file naming
+def extract_from_pdf(pdf_path, output_folder):
     base_name = os.path.splitext(os.path.basename(pdf_path))[0].replace(" ", "_")
     output_path = os.path.join(output_folder, base_name)
-    
-    # Save extracted data
-    save_data(text, sections, tables, output_path, base_name)
 
-# Process all PDFs in the folder
+    all_sections = []
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            full_text = "\n".join([p.extract_text() for p in pdf.pages if p.extract_text()])
+            model_id = extract_model_id_from_text(full_text)
+
+            for i, page in enumerate(pdf.pages):
+                text = page.extract_text()
+                if text:
+                    sections = extract_sections_from_text(text, i, model_id)
+                    all_sections.extend(sections)
+
+        tables = extract_tables_from_pdf(pdf_path)
+        # save_data(full_text, all_sections, tables, output_path, base_name)
+        return all_sections
+    except Exception as e:
+        logging.error(f"❌ Failed to extract {pdf_path}: {e}")
+
 def process_all_pdfs(pdf_folder, output_folder):
-    """Process all PDFs in the folder."""
+    all_pdf_data = []
     for filename in os.listdir(pdf_folder):
         if filename.endswith(".pdf"):
-            pdf_path = os.path.join(pdf_folder, filename)  # Full path to the PDF
-            logging.info(f"Processing PDF: {pdf_path}")
-            extract_text_and_tables_from_pdf(pdf_path, output_folder)
+            all_sections =extract_from_pdf(os.path.join(pdf_folder, filename), output_folder)
+            all_pdf_data.extend(all_sections)
+    with open("combined.json", "w", encoding="utf-8") as f:
+        json.dump(all_pdf_data, f, indent=4)
+    
+    df = pd.read_json('combined.json')
+    print(df.head())
+    df.to_csv('combined.csv', index=False)
+            
 
-# Run the script
+# Run this when executing directly
 if __name__ == "__main__":
     process_all_pdfs(PDF_FOLDER, OUTPUT_FOLDER)
 

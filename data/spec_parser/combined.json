@@ -1,0 +1,1499 @@
+[
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr Series",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 1
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "01",
+        "raw_value": "02",
+        "unit": null,
+        "source_page": 1,
+        "value": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr Is Designed For Both Direct-Online  And Easy To Buy",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Abb Has Gained Over More Than",
+        "raw_value": "130",
+        "unit": null,
+        "source_page": 1,
+        "value": 130.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Ver",
+        "raw_value": "221601",
+        "unit": "KKA",
+        "source_page": 2,
+        "value": 221601.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "True Nema Mounting In 5000 And",
+        "raw_value": "5800",
+        "unit": null,
+        "source_page": 2,
+        "value": 5800.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Which Keeps The Airflow Free And Ribs Easy To Clean Division",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Thanks To The Long Experience Of Over",
+        "raw_value": "130",
+        "unit": null,
+        "source_page": 2,
+        "value": 130.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Nxr En \u2013 Main Specifications Nxr Us",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Output Power 100 To 1800 Kw Output Power 250 Hp -",
+        "raw_value": "1000",
+        "unit": null,
+        "source_page": 2,
+        "value": 1000.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Frame Size 315 To 500 Frame Size",
+        "raw_value": "5000,",
+        "unit": null,
+        "source_page": 2,
+        "value": "5000,"
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Number Of Poles 2 To 12 Number Of Poles 2 To",
+        "raw_value": "6",
+        "unit": null,
+        "source_page": 2,
+        "value": 6.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Voltages Up To 11.5 Kv Voltages",
+        "raw_value": "460,",
+        "unit": null,
+        "source_page": 2,
+        "value": "460,"
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Vsd Frequency",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Standard Duty S1 Standard Duty Dol - 1.15 Vfd -",
+        "raw_value": "1.00",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Bearings Antifriction/Sleeve (Nxr 500",
+        "raw_value": "2-",
+        "unit": "pole",
+        "source_page": 2,
+        "min": 2.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Standards Iec  Standards Nema Mg-1 Part 20 And Ieee",
+        "raw_value": "112",
+        "unit": null,
+        "source_page": 2,
+        "value": 112.0
+    },
+    {
+        "model_id": "NXR EN",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Department/Author Customer Name Customer Ref. Item Name",
+        "raw_value": "1.00001",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.00001
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "A 12/8/2020 Untitled.Xlsm",
+        "raw_value": "1",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "No. Definition Data Unit Remarks",
+        "raw_value": "1",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Squirrel Cage Induction Motor",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 1,
+        "value": 2.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Product Code 3Gba 181 410-Adcin Calc. Ref. 3Gzh021018-1",
+        "raw_value": "3",
+        "unit": null,
+        "source_page": 1,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type/Frame M2Bax 180Mla 2",
+        "raw_value": "4",
+        "unit": null,
+        "source_page": 1,
+        "value": 4.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "B3",
+        "raw_value": "5",
+        "unit": null,
+        "source_page": 1,
+        "value": 5.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Output P N 22 Kw",
+        "raw_value": "6",
+        "unit": null,
+        "source_page": 1,
+        "value": 6.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Service Factor 1",
+        "raw_value": "7",
+        "unit": null,
+        "source_page": 1,
+        "value": 7.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type Of Duty S1 100%",
+        "raw_value": "8",
+        "unit": null,
+        "source_page": 1,
+        "value": 8.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Voltage U N",
+        "raw_value": "415",
+        "unit": null,
+        "source_page": 1,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "-10 %",
+        "raw_value": "9",
+        "unit": null,
+        "source_page": 1,
+        "value": 9.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Frequency F N",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 1,
+        "value": 50.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "-5 %",
+        "raw_value": "10",
+        "unit": null,
+        "source_page": 1,
+        "value": 10.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Speed N N 2932 R/Min",
+        "raw_value": "11",
+        "unit": null,
+        "source_page": 1,
+        "value": 11.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Current I N 38 A",
+        "raw_value": "12",
+        "unit": null,
+        "source_page": 1,
+        "value": 12.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Starting Current I S /I N 7",
+        "raw_value": "14",
+        "unit": null,
+        "source_page": 1,
+        "value": 14.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Nominal Torque T N 72 Nm",
+        "raw_value": "15",
+        "unit": null,
+        "source_page": 1,
+        "value": 15.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Locked Rotor Torque T S /T N 2.6",
+        "raw_value": "16",
+        "unit": null,
+        "source_page": 1,
+        "value": 16.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Maximum Torque T Max /T N 3.2",
+        "raw_value": "17",
+        "unit": null,
+        "source_page": 1,
+        "value": 17.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Load Characteristics Load % Current A Efficiency % Power Factor",
+        "raw_value": "19",
+        "unit": null,
+        "source_page": 1,
+        "value": 19.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Pll Determined From Residual Loss 100 38 91.3 / Ie2 0.88",
+        "raw_value": "20",
+        "unit": null,
+        "source_page": 1,
+        "value": 20.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "29.5 91.7 0.85",
+        "raw_value": "21",
+        "unit": null,
+        "source_page": 1,
+        "value": 21.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "21 91 0.8",
+        "raw_value": "22",
+        "unit": null,
+        "source_page": 1,
+        "value": 22.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Thermal Withstand Time Hot 20 S",
+        "raw_value": "24",
+        "unit": null,
+        "source_page": 1,
+        "value": 24.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Thermal Withstand Time Cold 32 S",
+        "raw_value": "25",
+        "unit": null,
+        "source_page": 1,
+        "value": 25.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Insulation Class / Temperature Class F / B",
+        "raw_value": "26",
+        "unit": null,
+        "source_page": 1,
+        "value": 26.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Ambient Temperature 50 \u00b0C",
+        "raw_value": "27",
+        "unit": null,
+        "source_page": 1,
+        "value": 27.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Altitude 1000 M.A.S.L.",
+        "raw_value": "28",
+        "unit": null,
+        "source_page": 1,
+        "value": 28.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Degree Of Protection Ip55",
+        "raw_value": "29",
+        "unit": null,
+        "source_page": 1,
+        "value": 29.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Cooling System Ic411",
+        "raw_value": "30",
+        "unit": null,
+        "source_page": 1,
+        "value": 30.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Bearing De/Nde 6310-2Z/C3 - 6209-2Z/C3",
+        "raw_value": "31",
+        "unit": null,
+        "source_page": 1,
+        "value": 31.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Sound Pressure Level  1M) 85 Db At No-Load",
+        "raw_value": "32",
+        "unit": null,
+        "source_page": 1,
+        "value": 32.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Moment Of Inertia J",
+        "raw_value": "=",
+        "unit": null,
+        "source_page": 1,
+        "value": "="
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Gd2 0.0679 Kg-M2",
+        "raw_value": "33",
+        "unit": null,
+        "source_page": 1,
+        "value": 33.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Position Of Terminal Box Top",
+        "raw_value": "34",
+        "unit": null,
+        "source_page": 1,
+        "value": 34.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Direction Of Rotation Bi-Directional",
+        "raw_value": "35",
+        "unit": null,
+        "source_page": 1,
+        "value": 35.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Weight Of Rotor 36 Kg",
+        "raw_value": "36",
+        "unit": null,
+        "source_page": 1,
+        "value": 36.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Total Weight Of Motor 152 Kg",
+        "raw_value": "37",
+        "unit": null,
+        "source_page": 1,
+        "value": 37.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "39",
+        "raw_value": "40",
+        "unit": null,
+        "source_page": 1,
+        "value": 40.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "42",
+        "raw_value": "43",
+        "unit": null,
+        "source_page": 1,
+        "value": 43.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Ex-Motors",
+        "raw_value": "46",
+        "unit": null,
+        "source_page": 1,
+        "value": 46.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Option Variant Codes / Definition",
+        "raw_value": "49",
+        "unit": null,
+        "source_page": 1,
+        "value": 49.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "51",
+        "raw_value": "52",
+        "unit": null,
+        "source_page": 1,
+        "value": 52.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Is 12615",
+        "raw_value": "2018,",
+        "unit": null,
+        "source_page": 1,
+        "value": "2018,"
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Iec 60034-30-1",
+        "raw_value": "2014",
+        "unit": null,
+        "source_page": 1,
+        "value": 2014.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Department/Author Customer Name Customer Ref. Item Name",
+        "raw_value": "1.00001",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.00001
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "A 12/8/2020 Untitled.Xlsm",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type/Frame M2Bax 180Mla 2 Calc. Ref.",
+        "raw_value": "3",
+        "unit": "GZH",
+        "source_page": 2,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Product Code 3Gba 181",
+        "raw_value": "410-",
+        "unit": "ADCIN",
+        "source_page": 2,
+        "min": 410.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Output P N",
+        "raw_value": "22",
+        "unit": null,
+        "source_page": 2,
+        "value": 22.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type Of Duty S1",
+        "raw_value": "100",
+        "unit": "%",
+        "source_page": 2,
+        "value": 100.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Voltage  415 Current I N  38 Power Factor At P N",
+        "raw_value": "0.88",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.88
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Frequency  50 Speed  2932 Efficiency  At P N 91.3",
+        "raw_value": "1.4",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.4
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".3",
+        "raw_value": "1.2",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".1",
+        "raw_value": "1",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".9",
+        "raw_value": "0.8",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.8
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".7",
+        "raw_value": "0.6",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.6
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".5",
+        "raw_value": "0.4",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.4
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".3",
+        "raw_value": "0.2",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".1",
+        "raw_value": "0",
+        "unit": null,
+        "source_page": 2,
+        "value": 0.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 1.1 1.2 1.3",
+        "raw_value": "1.4",
+        "unit": null,
+        "source_page": 2,
+        "value": 1.4
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Is 12615",
+        "raw_value": "2018,",
+        "unit": null,
+        "source_page": 2,
+        "value": "2018,"
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Iec 60034-30-1",
+        "raw_value": "2014",
+        "unit": null,
+        "source_page": 2,
+        "value": 2014.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Department/Author Customer Name Customer Ref. Item Name",
+        "raw_value": "1.00001",
+        "unit": null,
+        "source_page": 3,
+        "value": 1.00001
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "A 12/8/2020 Untitled.Xlsm",
+        "raw_value": "3",
+        "unit": null,
+        "source_page": 3,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type/Frame M2Bax 180Mla 2 Calc. Ref.",
+        "raw_value": "3",
+        "unit": "GZH",
+        "source_page": 3,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Product Code 3Gba 181 410-Adcin Frequency",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 3,
+        "value": 50.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Output P N 22 Kw Rated Current I N",
+        "raw_value": "38",
+        "unit": null,
+        "source_page": 3,
+        "value": 38.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type Of Duty S1",
+        "raw_value": "100",
+        "unit": "%",
+        "source_page": 3,
+        "value": 100.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J Motor  0.068 Voltage  100% 415 Voltage",
+        "raw_value": "415",
+        "unit": "V",
+        "source_page": 3,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J  T /T 2.6 T /T",
+        "raw_value": "2.6",
+        "unit": null,
+        "source_page": 3,
+        "value": 2.6
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Speed  2932 Starting Time  0.1 Starting Time",
+        "raw_value": "0.1",
+        "unit": null,
+        "source_page": 3,
+        "value": 0.1
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T N  72 Speed  2932 Speed",
+        "raw_value": "2932",
+        "unit": null,
+        "source_page": 3,
+        "value": 2932.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T  I/I 7 I/I",
+        "raw_value": "7",
+        "unit": null,
+        "source_page": 3,
+        "value": 7.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T /T 3.2 T /T",
+        "raw_value": "3.2",
+        "unit": null,
+        "source_page": 3,
+        "value": 3.2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Max N Max N",
+        "raw_value": "4.5",
+        "unit": null,
+        "source_page": 3,
+        "value": 4.5
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "4 8",
+        "raw_value": "3.5",
+        "unit": null,
+        "source_page": 3,
+        "value": 3.5
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "3 6",
+        "raw_value": "2.5",
+        "unit": null,
+        "source_page": 3,
+        "value": 2.5
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "2 4",
+        "raw_value": "1.5",
+        "unit": null,
+        "source_page": 3,
+        "value": 1.5
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "1 2",
+        "raw_value": "0.5",
+        "unit": null,
+        "source_page": 3,
+        "value": 0.5
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "0 0",
+        "raw_value": "0",
+        "unit": null,
+        "source_page": 3,
+        "value": 0.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "500 750 1000 1250 1500 1750 2000 2250 2500 2750 3000",
+        "raw_value": "3250",
+        "unit": null,
+        "source_page": 3,
+        "value": 3250.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Is 12615",
+        "raw_value": "2018,",
+        "unit": null,
+        "source_page": 3,
+        "value": "2018,"
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Iec 60034-30-1",
+        "raw_value": "2014",
+        "unit": null,
+        "source_page": 3,
+        "value": 2014.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Tmotorun 415V Tmotoru2",
+        "raw_value": "415",
+        "unit": "V",
+        "source_page": 3,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Imotorun 415V Imotoru2",
+        "raw_value": "415",
+        "unit": "V",
+        "source_page": 3,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Department/Author Customer Name Customer Ref. Item Name",
+        "raw_value": "1.00001",
+        "unit": null,
+        "source_page": 4,
+        "value": 1.00001
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "A 12/8/2020 Untitled.Xlsm",
+        "raw_value": "4",
+        "unit": null,
+        "source_page": 4,
+        "value": 4.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type/Frame M2Bax 180Mla 2 Calc. Ref.",
+        "raw_value": "3",
+        "unit": "GZH",
+        "source_page": 4,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Product Code 3Gba 181 410-Adcin Frequency",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 4,
+        "value": 50.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Output P N 22 Kw Rated Current I N",
+        "raw_value": "38",
+        "unit": null,
+        "source_page": 4,
+        "value": 38.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type Of Duty S1",
+        "raw_value": "100",
+        "unit": "%",
+        "source_page": 4,
+        "value": 100.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J Motor  0.068 Voltage  100% 415 Voltage",
+        "raw_value": "415",
+        "unit": "V",
+        "source_page": 4,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J  T /T 2.6 T /T",
+        "raw_value": "2.6",
+        "unit": null,
+        "source_page": 4,
+        "value": 2.6
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Speed  2932 Starting Time  0.1 Starting Time",
+        "raw_value": "0.1",
+        "unit": null,
+        "source_page": 4,
+        "value": 0.1
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T N  72 Speed  2932 Speed",
+        "raw_value": "2932",
+        "unit": null,
+        "source_page": 4,
+        "value": 2932.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T  I/I 7 I/I",
+        "raw_value": "7",
+        "unit": null,
+        "source_page": 4,
+        "value": 7.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T /T 3.2 T /T",
+        "raw_value": "3.2",
+        "unit": null,
+        "source_page": 4,
+        "value": 3.2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Max N Max N",
+        "raw_value": "3500",
+        "unit": null,
+        "source_page": 4,
+        "value": 3500.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "3000",
+        "raw_value": "250",
+        "unit": null,
+        "source_page": 4,
+        "value": 250.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "200",
+        "raw_value": "2000",
+        "unit": null,
+        "source_page": 4,
+        "value": 2000.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "1500",
+        "raw_value": "100",
+        "unit": null,
+        "source_page": 4,
+        "value": 100.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "50",
+        "raw_value": "500",
+        "unit": null,
+        "source_page": 4,
+        "value": 500.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "0",
+        "raw_value": "0",
+        "unit": null,
+        "source_page": 4,
+        "value": 0.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": ".02 0.04 0.06 0.08 0.1 0.12 0.14",
+        "raw_value": "0.16",
+        "unit": null,
+        "source_page": 4,
+        "value": 0.16
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Is 12615",
+        "raw_value": "2018,",
+        "unit": null,
+        "source_page": 4,
+        "value": "2018,"
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Iec 60034-30-1",
+        "raw_value": "2014",
+        "unit": null,
+        "source_page": 4,
+        "value": 2014.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Department/Author Customer Name Customer Ref. Item Name",
+        "raw_value": "1.00001",
+        "unit": null,
+        "source_page": 5,
+        "value": 1.00001
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "A 12/8/2020 Untitled.Xlsm",
+        "raw_value": "5",
+        "unit": null,
+        "source_page": 5,
+        "value": 5.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type/Frame M2Bax 180Mla 2 Calc. Ref.",
+        "raw_value": "3",
+        "unit": "GZH",
+        "source_page": 5,
+        "value": 3.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Product Code 3Gba 181 410-Adcin Frequency",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 5,
+        "value": 50.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Rated Output P N 22 Kw Rated Current I N",
+        "raw_value": "38",
+        "unit": null,
+        "source_page": 5,
+        "value": 38.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Type Of Duty S1",
+        "raw_value": "100",
+        "unit": "%",
+        "source_page": 5,
+        "value": 100.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J Motor  0.068 Voltage  100% 415 Voltage",
+        "raw_value": "415",
+        "unit": "V",
+        "source_page": 5,
+        "value": 415.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "J  T /T 2.6 T /T",
+        "raw_value": "2.6",
+        "unit": null,
+        "source_page": 5,
+        "value": 2.6
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Speed  2932 Starting Time  0.1 Starting Time",
+        "raw_value": "0.1",
+        "unit": null,
+        "source_page": 5,
+        "value": 0.1
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T N  72 Speed  2932 Speed",
+        "raw_value": "2932",
+        "unit": null,
+        "source_page": 5,
+        "value": 2932.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T  I/I 7 I/I",
+        "raw_value": "7",
+        "unit": null,
+        "source_page": 5,
+        "value": 7.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "T /T 3.2 T /T",
+        "raw_value": "3.2",
+        "unit": null,
+        "source_page": 5,
+        "value": 3.2
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Max N Max N",
+        "raw_value": "10000",
+        "unit": null,
+        "source_page": 5,
+        "value": 10000.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "100",
+        "raw_value": "10",
+        "unit": null,
+        "source_page": 5,
+        "value": 10.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "0.1",
+        "raw_value": "0",
+        "unit": null,
+        "source_page": 5,
+        "value": 0.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "200 300 400 500 600 700 800 900",
+        "raw_value": "1000",
+        "unit": null,
+        "source_page": 5,
+        "value": 1000.0
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Is 12615",
+        "raw_value": "2018,",
+        "unit": null,
+        "source_page": 5,
+        "value": "2018,"
+    },
+    {
+        "model_id": "UnknownModel",
+        "parameter": "Iec 60034-30-1",
+        "raw_value": "2014",
+        "unit": null,
+        "source_page": 5,
+        "value": 2014.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Abb High Voltage Modular Induction Motors Are High Efficiency Saves Energy And Cuts Costs",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Energy Savings Totaling Up To 1.1 Gwh Over A",
+        "raw_value": "20-",
+        "unit": "year",
+        "source_page": 1,
+        "min": 20.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "(Based On An Energy Price Of Eur",
+        "raw_value": "0.40",
+        "unit": "/kWh",
+        "source_page": 1,
+        "value": 0.4
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "2024 Abb. All Rights Reserved.",
+        "raw_value": "4202-80",
+        "unit": null,
+        "source_page": 2,
+        "min": 4202.0,
+        "max": 80.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "C",
+        "raw_value": ".",
+        "unit": "VER",
+        "source_page": 2,
+        "value": "."
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Ne",
+        "raw_value": "315501",
+        "unit": "KKA",
+        "source_page": 2,
+        "value": 315501.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Up To",
+        "raw_value": "23",
+        "unit": null,
+        "source_page": 2,
+        "value": 23.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Needs Of Each Customer Frame Sizes",
+        "raw_value": "400",
+        "unit": null,
+        "source_page": 2,
+        "value": 400.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "To",
+        "raw_value": "1000",
+        "unit": null,
+        "source_page": 2,
+        "value": 1000.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "And Each Application. Number Of Poles",
+        "raw_value": "2",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "To",
+        "raw_value": "24",
+        "unit": null,
+        "source_page": 2,
+        "value": 24.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Up To",
+        "raw_value": "13.8",
+        "unit": null,
+        "source_page": 2,
+        "value": 13.8
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": null,
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Or",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Ambient",
+        "raw_value": "-50",
+        "unit": null,
+        "source_page": 2
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Direct-On-Line",
+        "raw_value": "02",
+        "unit": null,
+        "source_page": 2,
+        "value": 2.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Our Worldwide Network Includes Over",
+        "raw_value": "60",
+        "unit": null,
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMI",
+        "parameter": "Air-To-Air Heat Exchanger Centers And More Than",
+        "raw_value": "150",
+        "unit": null,
+        "source_page": 2,
+        "value": 150.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Safe Choice Abb Rib Cooled Flameproof Motors Offer The Benefits",
+        "raw_value": "01",
+        "unit": null,
+        "source_page": 1,
+        "value": 1.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Manufacturer \u2013 Which Spans More Than 140 Years",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 1
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Two Versions Rib Cooled Motors Up To Frame Size",
+        "raw_value": "500,",
+        "unit": null,
+        "source_page": 1,
+        "value": "500,"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ne",
+        "raw_value": "390901-7102",
+        "unit": "KKA",
+        "source_page": 2,
+        "min": 390901.0,
+        "max": 7102.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Output Power 100 To",
+        "raw_value": "1,600",
+        "unit": null,
+        "source_page": 2,
+        "value": "1,600"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frame Size 355 To",
+        "raw_value": "500",
+        "unit": null,
+        "source_page": 2,
+        "value": 500.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Number Of Poles 2 To",
+        "raw_value": "18",
+        "unit": null,
+        "source_page": 2,
+        "value": 18.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Voltages Up To",
+        "raw_value": "11",
+        "unit": null,
+        "source_page": 2,
+        "value": 11.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ic416",
+        "raw_value": "-20",
+        "unit": "\u00b0",
+        "source_page": 2
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "To",
+        "raw_value": "40",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 40.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ambient Temperature To -55\u00b0C And Up To",
+        "raw_value": "60",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Gas/Dust Group I",
+        "raw_value": ",",
+        "unit": null,
+        "source_page": 2,
+        "value": ","
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Output Power 700 To",
+        "raw_value": "7,500",
+        "unit": null,
+        "source_page": 2,
+        "value": "7,500"
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frame Size 500 To",
+        "raw_value": "900",
+        "unit": null,
+        "source_page": 2,
+        "value": 900.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Number Of Poles 2 To",
+        "raw_value": "12",
+        "unit": null,
+        "source_page": 2,
+        "value": 12.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Voltages Up To",
+        "raw_value": "11",
+        "unit": null,
+        "source_page": 2,
+        "value": 11.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Frequency",
+        "raw_value": "50",
+        "unit": "/",
+        "source_page": 2,
+        "value": 50.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "S Extensive Global Network Ensures Local Service",
+        "raw_value": "-20",
+        "unit": "\u00b0",
+        "source_page": 2
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "To",
+        "raw_value": "40",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 40.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Ambient Temperature To -50\u00b0C And Up To",
+        "raw_value": "60",
+        "unit": "degC",
+        "source_page": 2,
+        "value": 60.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Iic Frame Available For Amd T",
+        "raw_value": "500",
+        "unit": null,
+        "source_page": 2,
+        "value": 500.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "H2 Available For Amd T",
+        "raw_value": "710",
+        "unit": null,
+        "source_page": 2,
+        "value": 710.0
+    },
+    {
+        "model_id": "AMD R",
+        "parameter": "Particulars Shall Prevail. Abb Ag Does Not Accept Any Of Its Contents \u2013 In Whole Or In Parts",
+        "raw_value": "\u2013",
+        "unit": null,
+        "source_page": 2
+    }
+]
